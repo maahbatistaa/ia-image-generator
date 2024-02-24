@@ -5,6 +5,6 @@ Gerador de imagens com IA. Utilizando API da OpenAI.
 ***Front-end:*** HTML, CSS e JavaScript
 
 ### Demonstração
-[AI Image Generator](https://bikcraft-chi-puce.vercel.app)
+[AI Image Generator](https://ia-image-generator-three.vercel.app)
 <hr>
 
